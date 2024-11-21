@@ -1,3 +1,4 @@
+![My Banner](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.ecomsolver.com/wp-content/uploads/2020/07/banner.jpg)
 <h1 align="center">Hi 👋, I'm MOHD AAKIL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://webixnet.com/wp-content/uploads/2022/09/97639-coding.gif" alt="Coding Logo" width="400" align="right">
