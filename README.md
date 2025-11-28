@@ -1,4 +1,4 @@
-![My Banner](https://github.com/soonaakil/Soonaakil/blob/main/Github-Bannerrr.png)
+![My Banner](https://github.com/soonaakil/Soonaakil/blob/main/Github-Banner.png)
 <h1 align="center">Hi 👋, I'm MOHD AAKIL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://webixnet.com/wp-content/uploads/2022/09/97639-coding.gif" alt="Coding Logo" width="400" align="right">
